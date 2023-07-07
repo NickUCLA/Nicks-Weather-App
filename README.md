@@ -1,6 +1,7 @@
 # Weather App
 
 This Weather App is a web application that displays current weather information based on the user's location. It was developed with the help of [Code Explained](https://www.youtube.com/@CodeExplained)'s tutorial and starter code. The icons used in the web application were created by the Graphic Designer Ashley Jager and can be found [here](https://github.com/manifestinteractive/weather-underground-icons). The weather data is provided by the API provider [OpenWeatherMap](http://www.OpenWeatherMap.org).
+[![Alt Text](images/screenshot.png)](https://nickucla.github.io/Nicks-Weather-App/)
 
 ## How to Use
 
